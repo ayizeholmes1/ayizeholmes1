@@ -21,6 +21,4 @@
 
 <h2>🤳 Let's Connect:</h2>
 
-<a href="https://twitter.com/Ayize"><img align="left" alt="Ayize | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://linkedin.com/in/ayize-holmes-4"><img align="left" alt="Ayize | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/ayize"><img align="left" alt="Ayize | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
