@@ -5,16 +5,16 @@
 <ul>
   <li><strong>osTicket (IT Support Ticketing Platform)</strong>
     <ul>
-      <li><a href="https://github.com/ayizeholmescc/osticket-prereqs">osTicket Setup Requirements & Initial Install</a></li>
-      <li><a href="https://github.com/ayizeholmescc/post-install-config">Post-Setup Configuration Details</a></li>
-      <li><a href="https://github.com/ayizeholmescc/ticket-lifecycle">Ticket Workflow Demonstration</a></li>
+      <li><a href="https://github.com/ayizeholmes1/osticket-prereqs">osTicket Setup Requirements & Initial Install</a></li>
+      <li><a href="https://github.com/ayizeholmes1/post-install-config">Post-Setup Configuration Details</a></li>
+      <li><a href="https://github.com/ayizeholmes1/ticket-lifecycle">Ticket Workflow Demonstration</a></li>
     </ul>
   </li>
 
   <li><strong>Microsoft Azure Projects</strong>
     <ul>
-      <li><a href="https://github.com/ayizeholmescc/configure-ad">Deploying Active Directory in Azure Virtual Machines</a></li>
-      <li><a href="https://github.com/ayizeholmescc/azure-network-protocols">Exploring NSGs & Analyzing Network Traffic</a></li>
+      <li><a href="https://github.com/ayizeholmes1/configure-ad">Deploying Active Directory in Azure Virtual Machines</a></li>
+      <li><a href="https://github.com/ayizeholmes1/azure-network-protocols">Exploring NSGs & Analyzing Network Traffic</a></li>
     </ul>
   </li>
 </ul>
